@@ -1,13 +1,8 @@
-<template>
-  <h1 class="bg-blue-300">App component</h1>
-  <MyComponent />
-</template>
+<template><Dashboard /></template>
 
 <script setup lang="ts">
-import MyComponent from '/Users/Hugo Gomes/Desktop/Super/src/components/MyComponent.vue'
+import Dashboard from './layouts/Dashboard.vue';
 
 </script>
 
-<style scoped>
-
-</style>
+<style scoped></style>
